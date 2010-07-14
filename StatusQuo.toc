@@ -1,0 +1,15 @@
+## Interface: 30200
+## Title: StatusQuo
+## Notes: Changes the default bar texture for player,target and party frames.
+## Author: Slakah
+## Version: 2.0
+## SavedVariables: StatusQuo2DB
+## X-Category:  Interface Enhancements
+
+Libs\LibStub.lua
+Libs\CallbackHandler-1.0.lua
+Libs\LibSharedMedia-3.0.lua
+Libs\tekKonfigHeading.lua
+
+StatusQuo.lua
+Config.lua
